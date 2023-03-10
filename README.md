@@ -5,6 +5,9 @@
 <h2>Description</h2>
 This project will showcase how Windows Server 2019 Active Directory can create and add users with PowerShell Automation.
 <br />
+<br />
+</b> **I want to thank Josh Madakor on YouTube for the lab tutorial.</b>
+<br />
 
 
 <h2>Languages Used</h2>
